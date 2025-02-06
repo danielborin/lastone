@@ -3,7 +3,7 @@
 
 title: "Introdução à Ciência da Computação"
 author: Daniel Borin
-#logo: logo.png
+logo: logo_ICC.png
 copyright: "2025"
 
 # Force re-execution of notebooks on each build.
