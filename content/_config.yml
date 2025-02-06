@@ -29,6 +29,9 @@ HTML:
   favicon: "favicon-16x16.png"  # A path to a favicon image
   use_issues_button: false
   use_repository_button: false
+  use_edit_page_button: false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
+  use_multitoc_numbering: true   # Continuous numbering across parts/chapters
+  home_page_in_navbar: false  # Whether to include your home page in the left Navigation Bar
   # extra_footer: |
   #   <p>
   #   &copy; 2023-2025; CC-BY-NC-SA 4.0
