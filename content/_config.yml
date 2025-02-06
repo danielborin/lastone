@@ -35,6 +35,7 @@ html:
 
 sphinx:
   config:
+    language: pt-br
     html_show_copyright: false
     nbsphinx_timeout: 300
     nb_execution_timeout: 300
