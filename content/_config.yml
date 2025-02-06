@@ -3,7 +3,7 @@
 
 title: "Introdução à Ciência da Computação"
 author: Daniel Borin
-# logo: logo_ICC.png
+logo: logo_ICC.png
 copyright: "2025"
 
 # Force re-execution of notebooks on each build.
@@ -25,7 +25,8 @@ repository:
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
-html:
+HTML:
+  favicon: "favicon-16x16.png"  # A path to a favicon image
   use_issues_button: false
   use_repository_button: false
   # extra_footer: |
