@@ -1,5 +1,5 @@
 format: jb-book
-root: Introduction
+root: 00_how_to_use.ipynb
 parts:
   - caption: Getting Started
     chapters:
