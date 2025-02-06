@@ -53,44 +53,44 @@ parts:
       - file: 06-sympy/sympy-examples.ipynb
       - file: 06-sympy/sympy-exercises.ipynb
 
-  - caption: Machine Learning
-    chapters:
-    - file: 11-machine-learning/neural-net-basics
-      sections:
-      - file: 11-machine-learning/gradient-descent
-      - file: 11-machine-learning/neural-net-derivation
-    - file: 11-machine-learning/neural-net-hidden
-      sections:
-      - file: 11-machine-learning/neural-net-improvements
-    - file: 11-machine-learning/machine-learning-libraries
-      sections:
-      - file: 11-machine-learning/keras-mnist
-      - file: 11-machine-learning/keras-clustering
+  # - caption: Machine Learning
+  #   chapters:
+  #   - file: 11-machine-learning/neural-net-basics
+  #     sections:
+  #     - file: 11-machine-learning/gradient-descent
+  #     - file: 11-machine-learning/neural-net-derivation
+  #   - file: 11-machine-learning/neural-net-hidden
+  #     sections:
+  #     - file: 11-machine-learning/neural-net-improvements
+  #   - file: 11-machine-learning/machine-learning-libraries
+  #     sections:
+  #     - file: 11-machine-learning/keras-mnist
+  #     - file: 11-machine-learning/keras-clustering
 
-  - caption: Python packaging and applications
-    chapters:
-    - file: 09-packages/python-modules
-    - file: 09-packages/python-arguments
-    - file: 09-packages/python-more-modules
-    - file: 09-packages/python-packages
-    - file: 09-packages/python-tools
+  # - caption: Python packaging and applications
+  #   chapters:
+  #   - file: 09-packages/python-modules
+  #   - file: 09-packages/python-arguments
+  #   - file: 09-packages/python-more-modules
+  #   - file: 09-packages/python-packages
+  #   - file: 09-packages/python-tools
 
-  - caption: Unit tests
-    chapters:
-    - file: 10-testing/testing
-    - file: 10-testing/pytest
-      sections:
-      - file: 10-testing/more-pytest
-    - file: 10-testing/real-world-example
+  # - caption: Unit tests
+  #   chapters:
+  #   - file: 10-testing/testing
+  #   - file: 10-testing/pytest
+  #     sections:
+  #     - file: 10-testing/more-pytest
+  #   - file: 10-testing/real-world-example
 
-  - caption: Extensions
-    chapters:
-    - file: 12-extensions/extensions-overview
-    - file: 12-extensions/extensions-example
+  # - caption: Extensions
+  #   chapters:
+  #   - file: 12-extensions/extensions-overview
+  #   - file: 12-extensions/extensions-example
 
-  - caption: Git and Github
-    chapters:
-    - file: git/version-control
-    - file: git/git
-    - file: git/github
-    - file: git/pull-requests
+  # - caption: Git and Github
+  #   chapters:
+  #   - file: git/version-control
+  #   - file: git/git
+  #   - file: git/github
+  #   - file: git/pull-requests
