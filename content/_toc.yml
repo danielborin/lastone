@@ -1,11 +1,10 @@
 format: jb-book
 root: 00_how_to_use.ipynb
 parts:
-  - caption: Getting Started
+  - caption: Básico do Python
     chapters:
-    - file: 01-python/installing
-    - file: 01-python/using
-    - file: 01-python/w1-jupyter.ipynb
+    - file: 01-python/L01_python_01.ipynb
+    - file: 01-python/L01_python_02.ipynb
 
   - caption: Python Basics
     chapters:
