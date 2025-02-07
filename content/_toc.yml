@@ -1,5 +1,5 @@
 format: jb-book
-root: 00_how_to_use.ipynb
+root: 00_Como_Usar.ipynb
 parts:
   - caption: Básico do Python
     chapters:
