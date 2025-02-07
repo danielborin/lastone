@@ -3,9 +3,11 @@ root: 00_how_to_use.ipynb
 parts:
   - caption: Básico do Python
     chapters:
-    - file: 01-python/L01_python_01.ipynb
-    - file: 01-python/L01_python_02.ipynb
-    - file: 01-python/L01_python_03.ipynb
+    - file: 01-python/L01_python_01_Jupyter.ipynb
+    - file: 01-python/L01_python_02_VariaveisBasico.ipynb
+    - file: 01-python/L01_python_03_VariaveisAvancado.ipynb
+    - file: 01-python/L01_python_04_FluxoControle.ipynb
+    - file: 01-python/L01_python_05_Funcoes.ipynb
 
   - caption: Python Basics
     chapters:
