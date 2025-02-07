@@ -5,6 +5,7 @@ parts:
     chapters:
     - file: 01-python/L01_python_01.ipynb
     - file: 01-python/L01_python_02.ipynb
+    - file: 01-python/L01_python_03.ipynb
 
   - caption: Python Basics
     chapters:
