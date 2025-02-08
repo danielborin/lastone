@@ -14,10 +14,7 @@ parts:
     - file: 02-numpy/L02_numpy_01_Basico.ipynb
     - file: 02-numpy/L02_numpy_02_Avancado.ipynb
     # - file: 02-numpy/L02_numpy_03_Exercicios
-
-
-  
-
+    
   - caption: Python Basics
     chapters:
     - file: 01-python/basics
