@@ -9,7 +9,7 @@ parts:
     - file: 01-python/L01_python_04_FluxoControle.ipynb
     - file: 01-python/L01_python_05_Funcoes.ipynb
     
-  - caption: Arrays\: Conhecendo o Numpy
+  - caption: Arrays - Conhecendo o Numpy
     chapters:
     - file: 02-numpy/L02_numpy_01_Basico.ipynb
     - file: 02-numpy/L02_numpy_02_Avancado.ipynb
