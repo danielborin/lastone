@@ -23,7 +23,7 @@ parts:
     - file: 04-matplotlib/L03_matplotlib_03_PlotagemAvancada.ipynb
     # - file: 04-matplolib/L03_matplotlib_03_Exercicios.ipynb
 
-  - caption: "Resolvendo Objetos Matemáticos Analíticamente"
+  - caption: "Resolvendo Expressões Matemáticas Analíticamente"
     chapters:
     - file: 06-sympy/L04_sympy_01_TrabalhandoSympy.ipynb
     - file: 06-sympy/L04_sympy_02_Simplificando.ipynb
@@ -31,7 +31,7 @@ parts:
     - file: 06-sympy/L04_sympy_04_Solucoes.ipynb
     # - file: 06-sympy/L04_sympy_04_Exercicios.ipynb
 
-  - caption: "Resolvendo Objetos Matemáticos Numericamente"
+  - caption: "Scipy: Utilizando Métodos Númericos no Python"
     chapters:
     - file: 05-scipy/scipy
       sections:
