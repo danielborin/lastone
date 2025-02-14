@@ -14,16 +14,24 @@ parts:
     chapters:
     - file: 02-numpy/L02_numpy_01_Basico.ipynb
     - file: 02-numpy/L02_numpy_02_Avancado.ipynb
-    # - file: 02-numpy/L02_numpy_03_Exercicios
+    # - file: 02-numpy/L02_numpy_03_Exercicios.ipynb
     
   - caption: "Gerando Gráficos com o Matplotlib"
     chapters:
     - file: 04-matplolib/L03_matplotlib_01_Intro.ipynb
     - file: 04-matplolib/L03_matplotlib_02_Plotagem.ipynb
     - file: 04-matplolib/L03_matplotlib_03_PlotagemAvancada.ipynb
-    # - file: 02-numpy/L02_numpy_03_Exercicios
+    # - file: 04-matplolib/L03_matplotlib_03_Exercicios.ipynb
 
-  - caption: Scientific Python
+  - caption: "Resolvendo Objetos Matemáticos Analíticamente"
+    chapters:
+    - file: 06-sympy/L04_sympy_01_TrabalhandoSympy.ipynb
+    - file: 06-sympy/L04_sympy_02_Simplificando.ipynb
+    - file: 06-sympy/L04_sympy_03_CalcDifInt.ipynb
+    - file: 06-sympy/L04_sympy_04_Solucoes.ipynb
+    # - file: 06-sympy/L04_sympy_04_Exercicios.ipynb
+
+  - caption: "Resolvendo Objetos Matemáticos Numericamente"
     chapters:
     - file: 05-scipy/scipy
       sections:
@@ -31,10 +39,7 @@ parts:
       - file: 05-scipy/scipy-exercises.ipynb
       - file: 05-scipy/scipy-basics-2.ipynb
       - file: 05-scipy/scipy-exercises-2.ipynb
-    - file: 06-sympy/sympy
-      sections:
-      - file: 06-sympy/sympy-examples.ipynb
-      - file: 06-sympy/sympy-exercises.ipynb
+
 
   # - caption: Machine Learning
   #   chapters:
