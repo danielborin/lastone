@@ -8,11 +8,19 @@ parts:
     - file: 01-python/L01_python_03_VariaveisAvancado.ipynb
     - file: 01-python/L01_python_04_FluxoControle.ipynb
     - file: 01-python/L01_python_05_Funcoes.ipynb
+    - file: 01-python/L01_python_06_Script.ipynb
     
   - caption: "Arrays: Conhecendo o Numpy"
     chapters:
     - file: 02-numpy/L02_numpy_01_Basico.ipynb
     - file: 02-numpy/L02_numpy_02_Avancado.ipynb
+    # - file: 02-numpy/L02_numpy_03_Exercicios
+    
+  - caption: "Gerando Gráficos com o Matplotlib"
+    chapters:
+    - file: 04-matplolib/L03_matplotlib_01_Intro.ipynb
+    - file: 04-matplolib/L03_matplotlib_02_Plotagem.ipynb
+    - file: 04-matplolib/L03_matplotlib_03_PlotagemAvancada.ipynb
     # - file: 02-numpy/L02_numpy_03_Exercicios
     
   - caption: Python Basics
