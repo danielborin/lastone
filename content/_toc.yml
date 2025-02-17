@@ -33,12 +33,11 @@ parts:
 
   - caption: "Scipy: Utilizando Métodos Númericos no Python"
     chapters:
-    - file: 05-scipy/scipy
-      sections:
-      - file: 05-scipy/scipy-basics.ipynb
-      - file: 05-scipy/scipy-exercises.ipynb
-      - file: 05-scipy/scipy-basics-2.ipynb
-      - file: 05-scipy/scipy-exercises-2.ipynb
+    - file: 05-scipy/L05_scipy_completo_01_Metodos.ipynb
+    - file: 05-scipy/L05_scipy_completo_02_Integracao.ipynb
+    - file: 05-scipy/L05_scipy_completo_03_Interpolacao.ipynb
+    - file: 05-scipy/L05_scipy_completo_04_Raizes.ipynb
+    - file: 05-scipy/L05_scipy_completo_05_AjusteCurva.ipynb
 
 
   # - caption: Machine Learning
