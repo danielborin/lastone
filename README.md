@@ -1,11 +1,7 @@
-# Python in Scientific Computing
-*lecture notes and IPython notebooks*
+# Introdução à Computação Científica (com python)
+*Site com as Notas de aula e IPython notebooks*
 
-These are the lecture notes and IPython notebooks used to teach the
-*Python for Scientific Computing* class at Stony Brook University.
-
-Feel free to fork this repository and make any changes you wish.
-Contributions are welcomed.
+Este é o repositório do site utilizado para armazenar as notas de aula e notebooks IPython usados para ministrar a disciplina **Introdução à Computação Científica**.
 
 
 
