@@ -9,6 +9,7 @@ parts:
     - file: 01-python/L01_python_04_ControleFluxo.ipynb
     - file: 01-python/L01_python_05_Funcoes.ipynb
     - file: 01-python/L01_python_06_Script.ipynb
+    - file: 01-python/L01_python_07_Exercicios.ipynb
     
   - caption: "Arrays: Conhecendo o Numpy"
     chapters:
