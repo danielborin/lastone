@@ -6,7 +6,7 @@ parts:
     - file: 01-python/L01_python_01_Jupyter.ipynb
     - file: 01-python/L01_python_02_VariaveisBasico.ipynb
     - file: 01-python/L01_python_03_VariaveisAvancado.ipynb
-    - file: 01-python/L01_python_04_FluxoControle.ipynb
+    - file: 01-python/L01_python_04_ControleFluxo.ipynb
     - file: 01-python/L01_python_05_Funcoes.ipynb
     - file: 01-python/L01_python_06_Script.ipynb
     
