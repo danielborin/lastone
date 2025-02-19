@@ -15,14 +15,14 @@ parts:
     chapters:
     - file: 02-numpy/L02_numpy_01_Basico.ipynb
     - file: 02-numpy/L02_numpy_02_Avancado.ipynb
-    # - file: 02-numpy/L02_numpy_03_Exercicios.ipynb
+    - file: 02-numpy/L02_numpy_03_Exercicios.ipynb
     
   - caption: "Gerando Gráficos com o Matplotlib"
     chapters:
     - file: 04-matplotlib/L03_matplotlib_01_Intro.ipynb
     - file: 04-matplotlib/L03_matplotlib_02_Plotagem.ipynb
     - file: 04-matplotlib/L03_matplotlib_03_PlotagemAvancada.ipynb
-    # - file: 04-matplolib/L03_matplotlib_03_Exercicios.ipynb
+    - file: 04-matplolib/L03_matplotlib_03_Exercicios.ipynb
 
   - caption: "Resolvendo Expressões Matemáticas Analíticamente"
     chapters:
@@ -30,7 +30,7 @@ parts:
     - file: 06-sympy/L04_sympy_02_Simplificando.ipynb
     - file: 06-sympy/L04_sympy_03_CalcDifInt.ipynb
     - file: 06-sympy/L04_sympy_04_Solucoes.ipynb
-    # - file: 06-sympy/L04_sympy_04_Exercicios.ipynb
+    - file: 06-sympy/L04_sympy_04_Exercicios.ipynb
 
   - caption: "Scipy: Utilizando Métodos Númericos no Python"
     chapters:
@@ -39,6 +39,7 @@ parts:
     - file: 05-scipy/L05_scipy_03_Interpolacao.ipynb
     - file: 05-scipy/L05_scipy_04_Raizes.ipynb
     - file: 05-scipy/L05_scipy_05_AjusteCurva.ipynb
+    - file: 05-scipy/L05_scipy_06_Exercicios.ipynb
 
 
   # - caption: Machine Learning
